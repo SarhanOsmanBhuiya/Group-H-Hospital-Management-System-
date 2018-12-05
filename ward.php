@@ -1,3 +1,4 @@
+<?php include ('part/db_connect.php'); ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -138,3 +139,5 @@
 
 </body>
 </html>
+
+<?php include ('part/ db_close.php'); ?>
