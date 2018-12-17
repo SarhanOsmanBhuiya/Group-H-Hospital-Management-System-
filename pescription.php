@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Prescription</title>
+	<title>Pescription</title>
 </head>
 	
 
@@ -26,3 +26,4 @@
 			</div>
 		</div>
 </body>
+</html>
